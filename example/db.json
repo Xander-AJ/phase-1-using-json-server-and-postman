@@ -1,14 +1,27 @@
 {
   "articles": [
     {
-      "id": 1,
-      "title": "Example Article",
-      "content": "This is an example."
+      "id": "1",
+      "title": "The Benefits of Meditation",
+      "content": "Meditation has been shown to reduce stress, improve focus, and promote overall well-being."
     },
     {
-      "id": 2,
-      "title": "Second Article",
-      "content": "This is also an example."
+      "id": "2",
+      "title": "Exploring the Grand Canyon",
+      "content": "A journey through the Grand Canyon offers breathtaking views and unforgettable experiences."
+    },
+    {
+      "id": "0d7d"
+    },
+    {
+      "id": "48f1",
+      "title": "Third Article",
+      "content": "Another example!"
+    },
+    {
+      "id": "7967",
+      "title": "The Art of Cooking",
+      "content": "Discover the joy of cooking with fresh ingredients and creative recipes."
     }
   ]
 }
